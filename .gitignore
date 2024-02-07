@@ -15,16 +15,8 @@ _template
 *.txt
 _perfecto_test_cases
 _scrape_perfecto.py
-
+.gitignore
 *.jar
-
-__pycache__
-
-/ComIT_Web_Development_with_Python.git/*
-
-/ComIT_Web_Development_with_Python.git.bfg-report/*
-
-ComIT.code-profile
 
 # ----------------------------------------------------------------------------
 
