@@ -4,20 +4,6 @@
 
 # ---------------------------- User Defined ----------------------------------
 
-*.pyc
-*.css
-*.png
-try_logging.py
-caplog.text
-app.log
-code_snippets
-_template
-*.txt
-_perfecto_test_cases
-_scrape_perfecto.py
-.gitignore
-*.jar
-
 # ----------------------------------------------------------------------------
 
 # Byte-compiled / optimized / DLL files
